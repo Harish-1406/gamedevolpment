@@ -51,3 +51,8 @@
 
 
 ## OUTPUT:
+![WhatsApp Image 2025-05-20 at 19 29 23_067d759e](https://github.com/user-attachments/assets/a0929adf-a407-45ec-9236-46b67de160fd)
+
+## RESULT
+Thus the editing an image using an image editing software is completed sucessfully.
+
